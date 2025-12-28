@@ -117,6 +117,7 @@ dev_dependencies:
 dependency_overrides:
   # drift & package_info_plus are not compatible
   web: ^1.0.0
+  intl: ^0.20.2
 
 flutter:
   uses-material-design: true
